@@ -1,0 +1,3 @@
+String dauvao(float Diem, int DRL) {
+If (DRL >= 90 && DRL <= 100 && Diem >=3.6 && Diem <= 4.0) return "Duoc"; else return "ko duoc";
+}
